@@ -5,5 +5,21 @@ body {
 
 h1 { 
     color: Black;
-    font-size: bold
+    font-size: bold;
+    width: 200vh;
  }
+
+
+.testbloc {
+    background-color: green;
+    width: 100vh;
+    height: 100vh}
+
+.bloc1 {
+    width: 50%;
+    color: white;
+    background-color: black}
+
+.bloc2 {
+    width : 50%;
+    background-color: white}
