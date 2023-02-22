@@ -10,16 +10,16 @@ h1 {
  }
 
 
-.testbloc {
+.testbloc {display: flex;
     background-color: green;
     width: 100vh;
     height: 100vh}
 
 .bloc1 {
-    width: 50%;
+    width: 48%;
     color: white;
     background-color: black}
 
 .bloc2 {
-    width : 50%;
+    width : 48%;
     background-color: white}
